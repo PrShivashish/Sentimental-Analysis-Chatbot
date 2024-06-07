@@ -84,7 +84,7 @@ if __name__ == '__main__':
 ```
 
 ## Contributing
-We welcome contributions from the community! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
+I welcome contributions from the community! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
