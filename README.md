@@ -4,10 +4,10 @@
 The Sentiment Analysis Chatbot is an AI-powered tool designed to analyze and interpret the emotional tone of text input. Utilizing the TextBlob library, this chatbot can determine the sentiment polarity of a given text and provide an appropriate emoji representation of the sentiment. The chatbot categorizes sentiments as positive, negative, or neutral, enhancing user interactions by providing immediate feedback on the emotional tone of their messages.
 
 ## Features
-\- **Sentiment Detection:** Uses **TextBlob** to analyze the sentiment polarity of the input text.
-\- **Emoji Representation:** Represents the detected sentiment with corresponding emojis: 😊 for positive, 😠 for negative, and 😐 for neutral.
-\- **Real-time Analysis:** Provides instant sentiment analysis results for user input.
-\- **User-friendly Interface:** Simple text-based interface for easy interaction.
+- **Sentiment Detection:** Uses **TextBlob** to analyze the sentiment polarity of the input text.
+- **Emoji Representation:** Represents the detected sentiment with corresponding emojis: 😊 for positive, 😠 for negative, and 😐 for neutral.
+- **Real-time Analysis:** Provides instant sentiment analysis results for user input.
+- **User-friendly Interface:** Simple text-based interface for easy interaction.
 
 ## Installation
 To get started with the Sentiment Analysis Chatbot, follow these steps:
