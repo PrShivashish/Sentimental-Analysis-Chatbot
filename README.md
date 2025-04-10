@@ -15,7 +15,7 @@ To get started with the Sentiment Analysis Chatbot, follow these steps:
 1. ### Clone the repository:
 
 ```python
-git clone https://github.com/your-username/sentiment-analysis-chatbot.git
+git clone https://github.com/PrShivashish/sentiment-analysis-chatbot.git
 cd sentiment-analysis-chatbot
 ```
 
